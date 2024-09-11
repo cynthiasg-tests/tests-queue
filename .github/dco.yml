@@ -1,5 +1,5 @@
 require:
   members: false
 allowRemediationCommits:
-  individual: true
-  thirdParty: true
+  individual: false
+  thirdParty: false
